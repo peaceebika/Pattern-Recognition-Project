@@ -86,7 +86,7 @@ Two machine learning models were implemented:
 
 ## Project Structure
 ```
-Feature-Based Drought Classification for Equitable Water Allocation Using Pattern Recognition
+Feature-Based Drought Classification for Equitable Water Allocation: A Pattern Recognition Approach
 │
 ├── README.md
 │
