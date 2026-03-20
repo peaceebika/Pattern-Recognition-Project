@@ -3,7 +3,7 @@ title: "Feature-Based Drought Classification for Equitable Water Allocation: A P
 name: "Peace Chinemere Ebika"
 course: Pattern Recognition
 ---
-# Feature-Based Drought Classification using Pattern Recognition
+# Feature-Based Drought Classification for Equitable Water Allocation: A Pattern Recognition Approach
 
 ## Project Overview
 This project focuses on the classification of drought and non-drought conditions using satellite imagery. The approach leverages classical computer vision techniques and machine learning models to extract meaningful features and perform classification.
