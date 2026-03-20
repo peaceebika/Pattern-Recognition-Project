@@ -96,8 +96,10 @@ Feature-Based Drought Classification for Equitable Water Allocation Using Patter
 
 ---
 
-## Repository Link
-https://github.com/peaceebika/Pattern-Recognition-Project
+## Google Earth Engine
+The Google Earth Engine script used to filter, visualize, and export the satellite imagery can be accessed here:
+
+[View the Earth Engine Code](https://code.earthengine.google.com/ed452eed789f12fa058f102ea639b09e?noload=1)
 
 ---
 
