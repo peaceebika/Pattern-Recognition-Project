@@ -63,7 +63,7 @@ Two machine learning models were implemented:
 ## Key Insights
 - Feature-based methods are effective for image classification.
 - Color and texture features are important for drought detection.
-- Current models show similar performance, suggesting the need for improved feature representation.r.
+- Current models show similar performance, suggesting the need for improved feature representation.
 
 ---
 
