@@ -54,16 +54,16 @@ Two machine learning models were implemented:
 ---
 
 ## Results
-- The RBF SVM performed better than the Linear SVM.
-- The model showed improved classification for non-linear patterns.
-- Some misclassifications still exist.
+- The Linear SVM and RBF SVM models produced comparable performance.
+- The models showed limited ability to clearly separate drought and non-drought classes.
+- Some misclassifications still exist, indicating the need for improvement.
 
 ---
 
 ## Key Insights
 - Feature-based methods are effective for image classification.
 - Color and texture features are important for drought detection.
-- Non-linear models (RBF SVM) perform better.
+- Current models show similar performance, suggesting the need for improved feature representation.r.
 
 ---
 
